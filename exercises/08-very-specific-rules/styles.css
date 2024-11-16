@@ -1,4 +1,15 @@
 /** Insert your code here **/
+tr:nth-of-type(odd) {
+	background-color: yellow;
+}
+
+ul li {
+	color: red !important;
+}
+
+ol li:nth-of-type(2) {
+	background-color: green;
+}
 
 /********** READ-ONLY BLOCK ******
 You CANNOT UPDATE anything from here on,
